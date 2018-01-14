@@ -1,10 +1,18 @@
 # Guessing Game
   A small mini game. Let a machine guess the number you think of.  
-  A basic React app integrated with firebase, using a simple binary search.
+  A basic React app integrated with Firebase, using a simple binary search.
 
 **Deployed at:** https://guessing-game-amir.firebaseapp.com/
   ### About
-  I created this minigame as a small practice while learning how to use firebase.
+  I created this minigame as a small practice while learning how to use firebase. 
+  
+  All you need to do is think of a number and then give the machine feedback for its guesses -   
+  Is it correct? or perhaps too low or too high?  
+ 
+  Your machine will recieve a score based on how many guesses it took to guess right.  
+  Name your machine so it can have a unique name among the high-scores.
+  
+  High scores are updated live and stored using Firebase.
   
   
 ## Contributing
