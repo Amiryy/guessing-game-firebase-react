@@ -1,6 +1,6 @@
 # Guessing Game
-  A small mini game. Let a machine guess the number you think of.
-  A basic React app using a simple binary search and integrated with firebase.
+  A small mini game. Let a machine guess the number you think of.  
+  A basic React app integrated with firebase, using a simple binary search.
 
 **Deployed at:** https://guessing-game-amir.firebaseapp.com/
   ### About
